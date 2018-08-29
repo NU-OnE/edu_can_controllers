@@ -9,6 +9,7 @@
          <param-value>
          com.user;
          com.appointment;
+         com.consultant;
          com.utilities
          </param-value> 
       </init-param> 
